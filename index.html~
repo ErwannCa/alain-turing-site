@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Page d'accueil du site sur Alan Turing">
+    <link rel="stylesheet" href="styles.css">
+    <link rel="icon" href="icone_turing.ico" type="image/x-icon">
+    <title>Accueil - Alain Turing</title>
+</head>
+<body>
+    <header>
+        <h1>Brenda</h1>
+        <nav>
+            <ul> 
+                <li><a href="biographie.html">Biographie</a></li>
+                <li><a href="travaux.html">Travaux</a></li>
+                <li><a href="heritage.html">Héritage</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section>
+            <h2>Bienvenue</h2>
+            <p>Découvrez la vie incroyable de Brenda elle aime trop twerker , un génie visionnaire.</p>
+        </section>
+        <figure class="image-center">
+            <img src="IMG_5043.jpeg" alt="Portrait d'Alan Turing">
+            <figcaption>Brenda et son nouveur piercing .</figcaption>
+        </figure>
+    </main>
+    <footer>
+        <p>&copy; 2025 Site sur Alain Turing par Erwann CARVALHO et Miroslav COZMA</p>
+    </footer>
+</body>
+</html>
